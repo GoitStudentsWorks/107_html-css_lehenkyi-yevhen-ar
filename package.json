@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/watch-charm-gr-12/",
+    "build": "vite build --base=/107_html-css_lehenkyi-yevhen-ar/",
     "preview": "vite preview"
   },
   "devDependencies": {
